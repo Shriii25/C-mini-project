@@ -1,0 +1,349 @@
+Which of the following is the correct syntax to declare a pointer in C?
+A. int ptr
+B. int *ptr
+C. ptr int*
+D. *int ptr
+B
+
+Which keyword is used to define a constant in C?
+A. define
+B. constant
+C. const
+D. static
+C
+
+What is the default return type of a function in C if not specified?
+A. void
+B. int
+C. float
+D. double
+B
+
+Which of the following is used for a single-line comment in C?
+A. //
+B. /**/
+C. #
+D. --
+A
+
+What is the correct format specifier for a float value?
+A. %c
+B. %d
+C. %f
+D. %s
+C
+
+Which operator is used to access the value at the address stored in a pointer?
+A. &
+B. *
+C. ->
+D. %
+B
+
+What is the size of an int variable (typically) in C on a 32-bit system?
+A. 2 bytes
+B. 4 bytes
+C. 8 bytes
+D. 1 byte
+B
+
+Which header file is required for printf() and scanf()?
+A. conio.h
+B. stdio.h
+C. string.h
+D. stdlib.h
+B
+
+What is the output of: printf("%d", 5 + 3 * 2);
+A. 11
+B. 16
+C. 21
+D. 13
+A
+
+Which of the following is not a valid C variable name?
+A. _value
+B. value1
+C. 1value
+D. value_
+C
+
+What does sizeof() operator return?
+A. Size of a function
+B. Size of a variable or type
+C. Size of memory block
+D. Size of an array only
+B
+
+Which of the following is a loop construct in C?
+A. iterate
+B. loop
+C. while
+D. repeat
+C
+
+What will be the result of 10 % 3 in C?
+A. 3
+B. 1
+C. 0
+D. 10
+B
+
+How are strings stored in C?
+A. Integer arrays
+B. Char arrays ending with '\0'
+C. float arrays
+D. double arrays
+B
+
+What is the correct syntax for a for loop in C?
+A. for(i=0;i<10;i++)
+B. loop(i=0;i<10;i++)
+C. repeat(i=0;i<10;i++)
+D. iterate(i=0;i<10;i++)
+A
+
+What does the break statement do in a loop?
+A. Ends the program
+B. Skips next iteration
+C. Exits the loop
+D. Continues the loop
+C
+
+Which function is used to allocate memory dynamically in C?
+A. malloc()
+B. memory()
+C. alloc()
+D. dynamic()
+A
+
+Which of the following is a relational operator in C?
+A. &&
+B. ||
+C. >=
+D. =
+C
+
+What is the correct way to declare an array of 5 integers?
+A. int arr[5];
+B. array int arr[5];
+C. int[5] arr;
+D. arr int[5];
+A
+
+What is the output of: printf("%c", 'A' + 1);
+A. A
+B. B
+C. 66
+D. 65
+B
+
+What does continue statement do in a loop?
+A. Stops the loop
+B. Skips the rest of loop and starts next iteration
+C. Ends program
+D. Skips the loop
+B
+
+Which function compares two strings in C?
+A. strcopy()
+B. strcmp()
+C. strjoin()
+D. strcomp()
+B
+
+What does #include <stdio.h> mean?
+A. Include input/output header
+B. Include main function
+C. Start execution
+D. None of the above
+A
+
+How do you define a structure in C?
+A. define structure
+B. struct
+C. class
+D. record
+B
+
+Which operator is used for bitwise AND in C?
+A. &
+B. &&
+C. |
+D. &&&
+A
+
+What is a pointer in C?
+A. A data type
+B. A variable that stores address
+C. A constant
+D. A keyword
+B
+
+Which of the following is a valid pointer declaration?
+A. int *p;
+B. int p*;
+C. int &p;
+D. pointer int p;
+A
+
+What is the output of: printf("%d", 10/3);
+A. 3
+B. 3.33
+C. 0
+D. Error
+A
+
+How to write a comment that spans multiple lines in C?
+A. // Comment //
+B. -- Comment --
+C. /* Comment */
+D. ## Comment ##
+C
+
+What is the result of: 5 == 5?
+A. 0
+B. 1
+C. true
+D. false
+B
+
+Which of these is a logical operator in C?
+A. +
+B. &&
+C. =
+D. %
+B
+
+What is the correct way to declare a function returning int?
+A. int func()
+B. void func()
+C. function int()
+D. declare func()
+A
+
+Which loop is guaranteed to execute at least once?
+A. for
+B. while
+C. do-while
+D. none
+C
+
+What does return 0; indicate in main()?
+A. Error
+B. Program not ended
+C. Successful execution
+D. Restart program
+C
+
+What is the correct operator to compare two values?
+A. =
+B. ==
+C. :=
+D. !=
+B
+
+How do you access structure members?
+A. with . operator
+B. with , operator
+C. with -> operator only
+D. with :: operator
+A
+
+Which of the following functions is used to find the length of a string?
+A. strlen()
+B. strlength()
+C. stringlength()
+D. size()
+A
+
+Which of these is a correct way to end a statement in C?
+A. .
+B. ,
+C. ;
+D. :
+C
+
+What is the output of: printf("%d", sizeof(char));
+A. 2
+B. 4
+C. 1
+D. 8
+C
+
+How many bytes does a float typically take in C?
+A. 1
+B. 2
+C. 4
+D. 8
+C
+
+Which keyword is used to declare global constants?
+A. global
+B. constant
+C. const
+D. static
+C
+
+Which of these is used to stop a program?
+A. end()
+B. break
+C. exit()
+D. quit()
+C
+
+In C, array indexing starts from?
+A. -1
+B. 0
+C. 1
+D. Any number
+B
+
+Which character is used to terminate strings in C?
+A. \n
+B. \r
+C. \0
+D. \t
+C
+
+Which of the following is a preprocessor directive?
+A. int
+B. return
+C. #define
+D. void
+C
+
+What is the result of: 5 != 3?
+A. false
+B. 0
+C. 1
+D. 2
+C
+
+What is the keyword used to define a union in C?
+A. class
+B. struct
+C. union
+D. define
+C
+
+What is a null pointer?
+A. Pointer to 0
+B. Pointer to random address
+C. Pointer with garbage
+D. Pointer to string
+A
+
+What is the purpose of the getchar() function?
+A. Read string
+B. Read character
+C. Write string
+D. Return number
+B
+
+What is the extension of a C source file?
+A. .cpp
+B. .java
+C. .py
+D. .c
+D
